@@ -1,0 +1,4 @@
+[submodule "pdp8v"]
+	path = pdp8v
+	url = ../../../pdp8
+	branch = zynqlibi2c
