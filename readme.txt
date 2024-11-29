@@ -1,4 +1,11 @@
 
+- - - - - - - - - - - - -
+
+    Project has been absorbed into pdp8l project
+    It is in folder pipan8l within the pdp8l project
+
+- - - - - - - - - - - - -
+
 RasPI-Zero-W uses /dev/i2c-1 to access the I2C bus going to the PCB.
 Any RasPI that runs recent RasPI OS and has a 40-pin GPIO connector
 should work, but I use a RasPI Zero because it is small, allowing me
